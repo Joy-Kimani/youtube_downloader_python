@@ -1,5 +1,7 @@
+#pip install yt-dlp
 import yt_dlp
 
+#Enter the url for the download
 url = input("Enter video url: ")
 
 ydl_opts = {}
